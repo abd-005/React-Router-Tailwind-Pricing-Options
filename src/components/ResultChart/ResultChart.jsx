@@ -74,6 +74,8 @@ const resultData = [
     }
   ]
 
+  console.log(resultData.student_id)
+
 const ResultChart = () => {
     return (
         <div>
